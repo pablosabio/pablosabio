@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on musical projects
 - 📫 How to reach me: pablosabio98@icloud.com
-- ⚡ Cool fact: I can solve Rubik's Cube under 20 sec
+- ⚡ Cool fact: I can solve Rubik's Cube under 30 sec
 
 <!---
 pablosabio/pablosabio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
