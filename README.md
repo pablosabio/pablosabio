@@ -14,22 +14,29 @@ Psychologist turned Full Stack Developer with a thing for patterns, whether in h
 
 ### Skills
 
-### 🧠 My Tech Stack
+### 🧠 Tech Stack
 
 #### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,sass,threejs" />
 
-#### 🎨 UI & Styling
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,chakra" />
-
-#### ⚙️ Backend
+#### ⚙️ Backend & API
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-#### 🧰 Tools & Build
-<img src="https://skillicons.dev/icons?i=git,vscode,webpack,vite,linux" />
+#### 🧪 Tools & Dev Utilities
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vite,sentry" />
 
-#### 🎨 Design & Motion
-<img src="https://skillicons.dev/icons?i=figma,framer" />
+#### 🧰 OS & Terminal
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+
+#### 🎨 Design & Documentation
+<img src="https://skillicons.dev/icons?i=figma,notion" />
+
+#### 🚀 Deployment & Hosting
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+#### 🔗 Social & Contact
+<img src="https://skillicons.dev/icons?i=linkedin,apple" />
+
 
 ### Socials
 
